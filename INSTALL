@@ -1,0 +1,9 @@
+Building Arthasiglos
+
+See doc/readme-qt.rst for instructions on building Arthasiglos-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Arthasiglos.
+
+See doc/build-*.txt for instructions on building arthasiglosd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Arthasiglos.
